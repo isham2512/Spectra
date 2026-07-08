@@ -1,2 +1,24 @@
-# Spectra
-Spectra Calculator is a modern responsive web app built with HTML, CSS, and JavaScript. It provides real-time calculations, keyboard support, history tracking, dark mode, smooth animations and a clean glassmorphism UI. Designed for speed and usability Spectra showcases modern frontend skills with an elegant and interactive user experience
+# Spectra Calculator
+
+A modern, responsive, and feature-rich calculator web application built using HTML5, CSS3, and Vanilla JavaScript. Spectra provides a smooth calculation experience with an elegant user interface, advanced functionality, and responsive design.
+
+## Features
+
+- Addition, subtraction, multiplication, and division
+- Decimal and percentage calculations
+- Real-time calculation display
+- Keyboard input support
+- Clear and delete functionality
+- Calculation history tracking
+- Dark/Light mode support
+- Modern glassmorphism-inspired UI
+- Fully responsive design
+- Error handling for invalid operations
+- Smooth animations and interactive buttons
+
+## Technologies Used
+
+- HTML5 – Structure and layout
+- CSS3 – Styling, animations, and responsive design
+- JavaScript – Logic, calculations, and user interactions
+
